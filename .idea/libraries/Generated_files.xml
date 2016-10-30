@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/utils/validator-compiled.js" />
+        <item url="file://$PROJECT_DIR$/daos/userDAO-compiled.js" />
+        <item url="file://$PROJECT_DIR$/domains/table-compiled.js" />
+        <item url="file://$PROJECT_DIR$/utils/cipher-compiled.js" />
+        <item url="file://$PROJECT_DIR$/utils/formatter-compiled.js" />
+        <item url="file://$PROJECT_DIR$/consts/requestTypes-compiled.js" />
+        <item url="file://$PROJECT_DIR$/sessions/loginSession-compiled.js" />
+        <item url="file://$PROJECT_DIR$/socket_server/socketServer-compiled.js" />
+        <item url="file://$PROJECT_DIR$/app-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/domains/hall-compiled.js" />
+      <root url="file://$PROJECT_DIR$/utils/validator-compiled.js" />
+      <root url="file://$PROJECT_DIR$/daos/userDAO-compiled.js" />
+      <root url="file://$PROJECT_DIR$/domains/table-compiled.js" />
+      <root url="file://$PROJECT_DIR$/utils/cipher-compiled.js" />
+      <root url="file://$PROJECT_DIR$/utils/formatter-compiled.js" />
+      <root url="file://$PROJECT_DIR$/consts/types-compiled.js" />
+      <root url="file://$PROJECT_DIR$/consts/requestTypes-compiled.js" />
+      <root url="file://$PROJECT_DIR$/sessions/loginSession-compiled.js" />
+      <root url="file://$PROJECT_DIR$/socket_server/socketServer-compiled.js" />
+      <root url="file://$PROJECT_DIR$/consts/property-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
